@@ -1,0 +1,6 @@
+{
+  "name": "ProEdit NLE",
+  "description": "Professional non-linear video editor with multi-track magnetic timeline, OpenGL ES 3.0 color grading, 3D LUTs, real-time scopes, Bezier curves, and Media3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

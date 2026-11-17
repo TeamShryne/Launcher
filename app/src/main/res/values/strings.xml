@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProEdit NLE</string>
+    <string name="cd_back_to_projects">Back to projects</string>
+    <string name="cd_undo">Undo</string>
+    <string name="cd_redo">Redo</string>
+    <string name="cd_proxy_toggle">Toggle proxy playback</string>
+    <string name="cd_scopes_toggle">Toggle video scopes</string>
+    <string name="cd_export_video">Export video</string>
+    <string name="cd_import_media">Import video</string>
+    <string name="cd_import_audio">Import audio</string>
+    <string name="cd_play_pause">Play or pause</string>
+    <string name="cd_step_backward">Previous frame</string>
+    <string name="cd_step_forward">Next frame</string>
+    <string name="cd_new_project">New project</string>
+    <string name="cd_project_options">Project options</string>
+</resources>
